@@ -1,4 +1,3 @@
-import Chevron from "./Chevron"
 import TitlePresentation from "./TitlePresentation"
 import PropTypes from "prop-types";
 
