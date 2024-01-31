@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Gotham Book";
+    src: url("/GothamBook.ttf");
+}
+
+
+*{
+    font-family: "Gotham Book";
+}
